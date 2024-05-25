@@ -51,3 +51,15 @@ In Agglomerative clustering the optimal number of clusters was also 6, which we 
 Continued all the efforts by creating a content-based recommender system using the similarity matrix obtained through cosine similarity.
 
 The recommender system offers personalized recommendations based on the type of shows the user has watched and provides the user with ten top-notch suggestions to explore.
+
+# Contributing
+
+Contributions to the project are welcomed via pull requests, bug reports, feature requests, and feedback on improving analysis methodologies and insights.
+
+# Acknowledgments
+
+Special thanks to AlmaBetter for providing the hotel bookings dataset used in this analysis.
+
+# Contact Information
+
+For inquiries or collaboration opportunities, please contact Akshay Bansala at akshaybansla09@gmail.com
